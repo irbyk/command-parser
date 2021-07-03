@@ -1,11 +1,11 @@
 {
-  "name": "command-parser",
-  "version": "0.0.0",
+  "name": "megabot-command-parser",
+  "version": "0.0.2",
   "description": "Command parser for discord.js bots.",
   "main": "./build/index.js",
   "types": "/build/index.d.ts",
   "scripts": {
-    "test": "echo \"\"\u001b[Dno test for the moment\"",
+    "test": "echo \"no test for the moment\"",
     "build": "tsc -p tsconfig.json"
   },
   "repository": {
